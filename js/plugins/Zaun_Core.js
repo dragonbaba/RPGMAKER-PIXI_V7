@@ -33,7 +33,7 @@ Zaun.Core = (Core => {
       return typeof obj === "object";
     }
     function isBoolean(obj) {
-      return (obj === "true") || (obj === " false");
+      return (obj === "true") || (obj === "false");
     }
     function readParam({ obj, targetObj, key }) {
       if (Array.isArray(obj)) {
