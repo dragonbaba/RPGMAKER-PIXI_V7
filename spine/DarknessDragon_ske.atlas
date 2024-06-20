@@ -1,0 +1,48 @@
+
+DarknessDragon_ske.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 4
+  rotate: false
+  xy: 632, 1121
+  size: 869, 337
+  orig: 871, 339
+  offset: 1, 1
+  index: -1
+Layer 646
+  rotate: false
+  xy: 1, 799
+  size: 629, 549
+  orig: 629, 549
+  offset: 0, 0
+  index: -1
+Layer 647
+  rotate: false
+  xy: 1256, 1
+  size: 677, 1118
+  orig: 677, 1118
+  offset: 0, 0
+  index: -1
+Layer 648
+  rotate: false
+  xy: 1, 1
+  size: 1253, 796
+  orig: 1253, 796
+  offset: 0, 0
+  index: -1
+Layer 649
+  rotate: false
+  xy: 451, 1350
+  size: 140, 198
+  orig: 142, 200
+  offset: 1, 1
+  index: -1
+Layer 650
+  rotate: false
+  xy: 1, 1350
+  size: 448, 452
+  orig: 450, 454
+  offset: 1, 1
+  index: -1

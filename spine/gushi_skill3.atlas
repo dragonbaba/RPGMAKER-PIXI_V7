@@ -1,0 +1,167 @@
+
+gushi_skill3.png
+size: 236,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baokai
+  rotate: true
+  xy: 2, 221
+  size: 50, 115
+  orig: 50, 115
+  offset: 0, 0
+  index: -1
+baoza
+  rotate: false
+  xy: 143, 339
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+feisan0001
+  rotate: true
+  xy: 141, 174
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+feisan0002
+  rotate: true
+  xy: 2, 273
+  size: 77, 121
+  orig: 78, 121
+  offset: 0, 0
+  index: -1
+feisan0003
+  rotate: true
+  xy: 2, 352
+  size: 85, 139
+  orig: 85, 139
+  offset: 0, 0
+  index: -1
+feisan0004
+  rotate: true
+  xy: 2, 439
+  size: 40, 147
+  orig: 40, 147
+  offset: 0, 0
+  index: -1
+feisan0005
+  rotate: true
+  xy: 2, 481
+  size: 33, 150
+  orig: 33, 150
+  offset: 0, 0
+  index: -1
+guangqiu
+  rotate: false
+  xy: 60, 4
+  size: 72, 72
+  orig: 80, 80
+  offset: 4, 4
+  index: -1
+guangxiao
+  rotate: false
+  xy: 143, 249
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+quanquan
+  rotate: false
+  xy: 2, 78
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 125, 236
+  size: 96, 14
+  orig: 101, 16
+  offset: 3, 1
+  index: -1
+xiaoguangdian
+  rotate: false
+  xy: 125, 334
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+xiaoshiguang0001
+  rotate: false
+  xy: 2, 180
+  size: 103, 39
+  orig: 105, 45
+  offset: 1, 3
+  index: -1
+xiaoshiguang0002
+  rotate: true
+  xy: 178, 102
+  size: 70, 51
+  orig: 72, 57
+  offset: 1, 3
+  index: -1
+xiaoshiguang0003
+  rotate: true
+  xy: 2, 3
+  size: 73, 56
+  orig: 75, 59
+  offset: 1, 1
+  index: -1
+xiaoshiguang0004
+  rotate: true
+  xy: 119, 189
+  size: 45, 12
+  orig: 47, 18
+  offset: 0, 3
+  index: -1
+zhongxinbaoza0001
+  rotate: false
+  xy: 141, 139
+  size: 35, 33
+  orig: 37, 35
+  offset: 1, 1
+  index: -1
+zhongxinbaoza0002
+  rotate: false
+  xy: 104, 84
+  size: 50, 52
+  orig: 52, 53
+  offset: 1, 0
+  index: -1
+zhongxinbaoza0003
+  rotate: false
+  xy: 134, 2
+  size: 59, 59
+  orig: 63, 61
+  offset: 2, 1
+  index: -1
+zhongxinbaoza0004
+  rotate: false
+  xy: 156, 63
+  size: 60, 37
+  orig: 62, 39
+  offset: 1, 1
+  index: -1
+zhongxinbaoza0005
+  rotate: true
+  xy: 107, 138
+  size: 49, 32
+  orig: 51, 34
+  offset: 1, 1
+  index: -1
+zhongxinbaoza0006
+  rotate: false
+  xy: 195, 33
+  size: 39, 28
+  orig: 41, 32
+  offset: 1, 2
+  index: -1
+ziwu
+  rotate: false
+  xy: 154, 429
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1

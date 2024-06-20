@@ -1,0 +1,13 @@
+该工程中的几个文件需要自行复制到自己的工程
+rmmz_core.js
+rmmz_scene.js
+rmmz_sprite.js
+rmmz_window.js
+该工程中的libs/pixi.js文件是 PIXI 7.4.2版本
+并非mz正在使用的 5.3.12
+
+上述提到的文件和pixi 的大版本捆绑，仅针对V7
+我对V8的适配版本并没有对外开放
+
+最后，请勿随意传播该工程，该工程仅提供给在使用mz制作游戏的人
+以及想要为mz注入新鲜血液的人
